@@ -1,4 +1,8 @@
 ### Hi there 👋
+##About
+I am Sumit from India. I live in Jharkhand and I am a teen student
+Thanks for visiting my profile.
+I am a member from XDA.
 
 <!--
 **ssumit5/ssumit5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
